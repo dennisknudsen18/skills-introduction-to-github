@@ -1,1 +1,1 @@
-Another readme
+Another readme without spelling mistakes!
